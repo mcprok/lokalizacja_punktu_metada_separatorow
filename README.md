@@ -19,3 +19,10 @@ mvn clean package
 java -jar /target/projekt.jar nazwaPlikuZDanymi
 ```
 (plik z danymi powinien znajdować się w ```src/main/resources/``` 
+
+
+###PS. Uwaga !
+W kodzie jest mnóstwo rzeczy, które są użyte tylko i wyłącznie do lepszego zwizualizowania przebiegu algorytmu. Bez nich kod stałby się bardziej czytelny, ale za to nie moglibyśmy się nacieszyć widokiem naszego grafu w goGui :) 
+
+
+<img src="https://raw.githubusercontent.com/mcprok/lokalizacja_punktu_metada_separatorow/master/result.gif">
