@@ -13,7 +13,7 @@ public class PointLocation {
 		graph.initializeGraph("src/main/resources/" + args[0]);
 
 
-		graph.findPointLocation(new Point(1,3));
+		graph.findPointLocation(new Point(Double.valueOf(args[1]), Double.valueOf(args[2])));
 
 		GoGui.saveJSON("src/main/resources/result_ " + args[0] + ".txt");
 	}
