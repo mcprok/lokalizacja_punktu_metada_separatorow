@@ -214,7 +214,6 @@ public class Solver {
 		snapshot();
 	}
 
-
 	private static double det(Point x, Point y, Point z) {
 		return (x.x - z.x) * (y.y - z.y) - (x.y - z.y) * (y.x - z.x);
 	}
