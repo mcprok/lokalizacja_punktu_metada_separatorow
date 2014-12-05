@@ -3,7 +3,7 @@
 #### Lokalizacja punktu w przestrzeni z podziałem poligonalnym za pomocą metody separatorów.
 
 
-
+Link do prezentacji : https://prezi.com/bleykzg9h4ft
 
 ##Użytkowanie i instalacja 
 
